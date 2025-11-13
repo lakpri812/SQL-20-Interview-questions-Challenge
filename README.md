@@ -7,7 +7,7 @@ This repository consists of my completed challenges from "Interview Master.AI" w
 | SELECTING   | 1     | Netflix    |
 |      | 2       | Uber      |
 | SORTING & LIMITING   | 3     | Google    |
-|      | 4       | Amazon    (TBD)  |
+|      | 4       | Amazon     |
 |      | 5       | Google    (TBD)  |
 | AGGREGATIONS & GROUP BY   | 6     | Meta (TBD)   |
 |      | 7       | Stripe    (TBD)  |
