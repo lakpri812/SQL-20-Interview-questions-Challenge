@@ -4,5 +4,8 @@ This repository consists of my completed challenges from "Interview Master.AI" w
 
 | SQL Function | Day | Company |
 | :---         |     :---:      |          ---: |
-| SELECTing   | 1     | Netflix    |
+| SELECTING   | 1     | Netflix    |
 |      | 2       | Uber      |
+| SORTING & LIMITING   | 3     | Google    |
+|      | 4       | Amazon      |
+|      | 5       | Google      |
