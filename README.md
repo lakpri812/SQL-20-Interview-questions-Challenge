@@ -5,3 +5,7 @@ This repository consists of my completed challenges from "Interview Master.AI" w
 SELECTING: Day 1 - 2.
 SORTING & LIMITING: Day 3 - 5.
 
+| SQL Function  | Day | Company |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
